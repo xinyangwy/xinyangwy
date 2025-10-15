@@ -24,4 +24,4 @@
 
 ### 🎉 Get in touch
 
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/xinyangwy)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/xinyangwy)  [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.cn/u/xinyang6/)  [![CSDN](https://img.shields.io/badge/CSDN-red?logo=csdn)](https://wuzilong.blog.csdn.net/?type=blog)
