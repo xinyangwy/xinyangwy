@@ -1,7 +1,7 @@
 ## 我是xinyangwy
 
 - 👨‍🎓我是一名在读软件工程硕士，27届秋招选手；喜欢的话请多多为我star吧！🤞
-- :pencil: 博客：[CSDN💬](https://wuzilong.blog.csdn.net/?type=blog)、 - 新手上路，请多指教！
+- :pencil: 博客：[CSDN💬](https://wuzilong.blog.csdn.net/?type=blog)
 
 
 ### ✨ my skills
